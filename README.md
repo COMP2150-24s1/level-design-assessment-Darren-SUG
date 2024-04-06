@@ -46,11 +46,11 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.5. Acid
 
-### 2.6. Spikes
+### 2.6. Weapon Pickup (Gun)
 
-### 2.7. Weapon Pickup (Gun)
+### 2.7. Health Pickups
 
-### 2.8. Health Pickups
+### 2.8. Spikes
 
 ### 2.9. Chompers
 
