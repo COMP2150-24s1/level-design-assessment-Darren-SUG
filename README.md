@@ -19,7 +19,7 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
-
+In the starter room there is a staff pickup and a breakable column which encourages the player to use the newly obtained staff to break the part of the wall that looks different, this teaches them that different looking walls are breakable. The player will also learn how to time their jumps to be able to make it across many acid pools and each of these acid encounters are usually close by to a checkpoint to prevent the player from going back too far and making the game boring. Players will find that by exploring different areas they will be rewarded with health pickups to help them recover any health lost but these rewards are mostly guarded by enemies so the player will have to be able to kill them beforehand or dodge all enemies which might prove difficult. Some areas in the game aren’t accessible until the player has either moved a box to the right position or pressed a switch so that will help them explore the map further.
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
