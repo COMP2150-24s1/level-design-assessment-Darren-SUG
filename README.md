@@ -37,27 +37,27 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Weapon Pickup (Staff)
-
+![Section 1 Level Map](DocImages/StaffEncounter.jpg)
 ### 2.2. Moving Platforms
-
+![Section 1 Level Map](DocImages/SpitterMovingPlatformEncounter.jpg)
 ### 2.3. Spitters
-
+![Section 1 Level Map](DocImages/SpitterMovingPlatformEncounter.jpg)
 ### 2.4. Checkpoints
-
+![Section 1 Level Map](DocImages/AcidCheckpointEncounter.jpg)
 ### 2.5. Acid
-
+![Section 1 Level Map](DocImages/AcidCheckpointEncounter.jpg)
 ### 2.6. Weapon Pickup (Gun)
-
+![Section 1 Level Map](DocImages/GunHealthSpikeEncounter.jpg)
 ### 2.7. Health Pickups
-
+![Section 1 Level Map](DocImages/GunHealthSpikeEncounter.jpg)
 ### 2.8. Spikes
-
+![Section 1 Level Map](DocImages/GunHealthSpikeEncounter.jpg)
 ### 2.9. Chompers
-
+![Section 1 Level Map](DocImages/ChomperEncounter.jpg)
 ### 2.10. Passthrough Platforms
-
+![Section 1 Level Map](DocImages/PassablePlatformEncounter.jpg)
 ### 2.11. Keys
-
+![Section 1 Level Map](DocImages/KeyEncounter.jpg)
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
