@@ -37,27 +37,38 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Weapon Pickup (Staff)
-![Section 1 Level Map](DocImages/StaffEncounter.jpg)
+![Staff Storyboard](DocImages/StaffEncounter.jpg)
+Since it was the beginning of the level, I thought that the player would need a weapon early on so I gave them a staff which they can test out on the breakable column.
 ### 2.2. Moving Platforms
-![Section 1 Level Map](DocImages/SpitterMovingPlatformEncounter.jpg)
+![Moving Platforms Storyboard](DocImages/SpitterMovingPlatformEncounter.jpg)
+The parkour in my level is going to get harder so I wanted to introduce the mechanic earlier so that the player can expect harder sections with moving platforms.
 ### 2.3. Spitters
-![Section 1 Level Map](DocImages/SpitterMovingPlatformEncounter.jpg)
+![Spitter Storyboard](DocImages/SpitterMovingPlatformEncounter.jpg)
+The spitter here was to help by letting the player dodge its spit or kill the spitter so they would know how spitters worked and how they could potentially disrupt parkour sections.
 ### 2.4. Checkpoints
-![Section 1 Level Map](DocImages/AcidCheckpointEncounter.jpg)
+![Checkpoint Storyboard](DocImages/AcidCheckpointEncounter.jpg)
+I added the check point here because I wanted to introduce acid right after so if the player falls into the acid then they would realise that they can respawn at these checkpoints.
 ### 2.5. Acid
-![Section 1 Level Map](DocImages/AcidCheckpointEncounter.jpg)
+![Acid Storyboard](DocImages/AcidCheckpointEncounter.jpg)
+The acid is placed right next to the checkpoint because I did not want the players to have to go all the way to the beginning if they fell in the acid.
 ### 2.6. Weapon Pickup (Gun)
-![Section 1 Level Map](DocImages/GunHealthSpikeEncounter.jpg)
+![Gun Storyboard](DocImages/GunHealthSpikeEncounter.jpg)
+I wanted to encourage exploration so I kind of hid the gun so that players needed to explore if they wanted to find the gun which would help kill enemies a lot easier.
 ### 2.7. Health Pickups
-![Section 1 Level Map](DocImages/GunHealthSpikeEncounter.jpg)
+![Health Pickup Storyboard](DocImages/GunHealthSpikeEncounter.jpg)
+Since the player might or might not have taken damage up until this point then I gave them some health to relieve them of the stress of low health.
 ### 2.8. Spikes
-![Section 1 Level Map](DocImages/GunHealthSpikeEncounter.jpg)
+![Spike Storyboard](DocImages/GunHealthSpikeEncounter.jpg)
+The spikes were added here so that if the player still had max health and accidentally touched the spike then they would be able to use the health pickup.
 ### 2.9. Chompers
-![Section 1 Level Map](DocImages/ChomperEncounter.jpg)
+![Chompers Storyboard](DocImages/ChomperEncounter.jpg)
+I wanted to let the player use the gun that they recently received if they had found it so that they could test it out.
 ### 2.10. Passthrough Platforms
-![Section 1 Level Map](DocImages/PassablePlatformEncounter.jpg)
+![Passthrough Platform Storyboard](DocImages/PassablePlatformEncounter.jpg)
+The passthrough platform was added here to add a little puzzle solving since the player can see a room underground and they would be rewarded with a switch to enable a platform that leads to the key.
 ### 2.11. Keys
-![Section 1 Level Map](DocImages/KeyEncounter.jpg)
+![Key Storyboard](DocImages/KeyEncounter.jpg)
+The key was added here so that the player would need to explore more sections and tell the player that getting to the end does not mean that they are finished with the section.
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
