@@ -68,7 +68,7 @@ No additional words are necessary for this section (any words should only be wit
 ### 3.2. Level Map – Section 1
 ![Section 1 Level Map](DocImages/Section1.jpeg)
 ### 3.3.	Level Map – Section 2
-
+![Section 2 Level Map](DocImages/Section2.jpeg)
 ### 3.4.	Level Map – Section 3
 
 ## 4. Iterative Design (~400 words)
